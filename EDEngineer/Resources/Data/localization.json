@@ -40,6 +40,11 @@
       "Name": "Česky",
       "NotReadyWarning": "Tento překlad není kompletní. Pokud si ho zvolíte, počítejte s tím, že ne všechno musí být přeloženo. To co přeloženo nebude, bude nadále v angličtině."
     }
+        "cs": {
+      "TwoLetterISOLanguageName": "nl",
+      "Name": "Nederlands",
+      "NotReadyWarning": "Deze vertaling is nog niet compleet. Als u deze taal kiest zal niet alles worden vertaald. Hetgeen niet vertaald is zal in het engels worden weergegeven."
+    }
   },
   "Translations": {
     "Short Range Blaster": {
@@ -50,6 +55,7 @@
       "ru": "Бластер малого радиуса",
       "pl": "Short Range Blaster",
       "cs": "Short Range Blaster"
+      "nl": "korte afstand wapen"
     },
     "Lightweight": {
       "es": "Aligerado",
@@ -59,6 +65,7 @@
       "ru": "Облегченный",
       "pl": "Lekki",
       "cs": "Lightweight"
+      "nl": "Licht gewicht"
     },
     "Heavy Duty Hull Reinforcement": {
       "es": "Refuerzo Estructural de Alta Resistencia",
@@ -68,6 +75,7 @@
       "ru": "Утяжеление усилителя корпуса",
       "pl": "Heavy Duty Hull Reinforcement",
       "cs": "Heavy Duty Hull Reinforcement"
+      "nl": "zware hull versteviging"
     },
     "Drive Strengthening": {
       "es": "Fortalecimiento de Motor",
@@ -77,6 +85,7 @@
       "ru": "Защищённый двигатель",
       "pl": "Wzmocnienie napędu",
       "cs": "Drive Strengthening"
+      "nl": "Aandrijving versterkt"
     },
     "Efficient Weapon": {
       "es": "Arma Eficiente",
@@ -86,6 +95,7 @@
       "ru": "Эффективное оружие",
       "pl": "Wydajna Broń",
       "cs": "Efficient Weapon"
+      "nl": "Efficient Wapen"
     },
     "Lightweight Mount": {
       "es": "Anclaje Ligero",
@@ -95,6 +105,7 @@
       "ru": "Легкое крепление",
       "pl": "Lightweight Mount",
       "cs": "Lightweight Mount"
+      "nl": "Lichtgewicht bevestiging"
     },
     "Armoured": {
       "es": "Blindado",
@@ -104,6 +115,7 @@
       "ru": "Бронированный",
       "pl": "Opancerzony",
       "cs": "Armoured"
+      "nl": "Gepantserd"
     },
     "Reinforced": {
       "es": "Reforzado",
@@ -113,6 +125,8 @@
       "ru": "Усиленный",
       "pl": "Wzmocnione",
       "cs": "Reinforced"
+      "nl": "Verstevigd"
+      
     },
     "Sturdy Mount": {
       "es": "Anclaje Robusto",
@@ -131,6 +145,7 @@
       "ru": "Увеличение дальности перехвата",
       "pl": "Longer Range FSD interdictor",
       "cs": "Longer Range FSD interdictor"
+      "nl": "Lange afstand FSD interdictor"
     },
     "Reinforced Shields": {
       "es": "Escudos Reforzados",
@@ -140,6 +155,7 @@
       "ru": "Усиленный щит",
       "pl": "Wzmocnione Osłony",
       "cs": "Reinforced Shields"
+      "nl": "Versterkt Schild"
     },
     "Enhanced, Low Power Shields": {
       "es": "Escudos Mejorados de Baja Energía",
